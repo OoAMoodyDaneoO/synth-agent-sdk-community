@@ -25,7 +25,7 @@ The SDK source code lives separately at [pypi.org/project/synth-agent-sdk](https
 
 | | |
 |---|---|
-| 📦 Install | `pip install synth-agent-sdk[anthropic]` |
+| 📦 Install | `pip install synth-agent-sdk[all]` |
 | 📖 Docs | Coming soon |
 | 💬 Discussions | [GitHub Discussions](../../discussions) |
 | 🗺️ Roadmap | [ROADMAP.md](ROADMAP.md) |
