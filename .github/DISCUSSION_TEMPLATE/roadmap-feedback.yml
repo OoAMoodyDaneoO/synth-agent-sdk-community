@@ -1,0 +1,32 @@
+title: "[Roadmap Feedback] "
+labels: [roadmap]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this template to give feedback on the roadmap or advocate for a specific direction.
+        Check the [ROADMAP.md](../../blob/main/ROADMAP.md) first to see what's already planned.
+
+  - type: textarea
+    id: context
+    attributes:
+      label: What are you trying to build or solve?
+      description: Describe your use case and where you're hitting friction today.
+    validations:
+      required: true
+
+  - type: textarea
+    id: roadmap-item
+    attributes:
+      label: Which roadmap item does this relate to?
+      description: Link to a specific item, or describe a gap that isn't on the roadmap yet.
+    validations:
+      required: true
+
+  - type: textarea
+    id: priority
+    attributes:
+      label: How important is this to you?
+      description: Is this blocking a production deployment? A nice-to-have? Something you're working around today?
+    validations:
+      required: false
