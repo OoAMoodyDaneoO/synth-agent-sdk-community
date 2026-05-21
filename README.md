@@ -1,4 +1,4 @@
-# Synth Community
+# Synth Agent SDK Community
 
 Welcome to the official community hub for **[Synth Agent SDK](https://pypi.org/project/synth-agent-sdk/)** — the Python SDK for building, deploying, and governing production-grade AI agents.
 
